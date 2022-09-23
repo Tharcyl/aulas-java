@@ -17,6 +17,7 @@ public class At01 {
 
         media = nota01 + nota02 / 2;
 
-        System.out.println("Sua média é: " + media);
+        System.out.println("Sua média é: " + media);  
+        
     }
 }
